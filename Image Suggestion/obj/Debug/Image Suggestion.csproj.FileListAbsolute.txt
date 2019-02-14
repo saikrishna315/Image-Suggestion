@@ -1,0 +1,10 @@
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\bin\Debug\Image Suggestion.exe.config
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\bin\Debug\Image Suggestion.exe
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\bin\Debug\Image Suggestion.pdb
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image Suggestion.csprojAssemblyReference.cache
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image_Suggestion.Form1.resources
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image_Suggestion.Properties.Resources.resources
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image Suggestion.csproj.GenerateResource.cache
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image Suggestion.csproj.CoreCompileInputs.cache
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image Suggestion.exe
+C:\Users\skrishna\source\repos\Image Suggestion\Image Suggestion\obj\Debug\Image Suggestion.pdb
